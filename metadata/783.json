@@ -1,0 +1,33 @@
+{
+  "tokenId": "783",
+  "name": "Hoodzilla #783",
+  "description": "4444 Hoodzilla living on ApeChain",
+  "image": "https://hoodzillas.github.io/assets/images/783.webp",
+  "traits": [
+    {
+      "trait_type": "BG",
+      "value": "Robinhood Scanlines"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sports Purple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cow Boy"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Red Blades"
+    },
+    {
+      "trait_type": "neck",
+      "value": "Tag"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggie"
+    }
+  ],
+  "image_url": "https://hoodzillas.github.io/assets/images/783.webp"
+}
